@@ -1,0 +1,14 @@
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\bin\Debug\net7.0\New folder (2).exe
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\bin\Debug\net7.0\New folder (2).deps.json
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\bin\Debug\net7.0\New folder (2).runtimeconfig.json
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\bin\Debug\net7.0\New folder (2).dll
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\bin\Debug\net7.0\New folder (2).pdb
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\New folder (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\New folder (2).AssemblyInfoInputs.cache
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\New folder (2).AssemblyInfo.cs
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\New folder (2).csproj.CoreCompileInputs.cache
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\New folder (2).dll
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\refint\New folder (2).dll
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\New folder (2).pdb
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\New folder (2).genruntimeconfig.cache
+C:\Users\Elbrmbaly Lap\Desktop\New folder (2)\obj\Debug\net7.0\ref\New folder (2).dll
